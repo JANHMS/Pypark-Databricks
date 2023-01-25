@@ -1,4 +1,4 @@
-# Pypark-Databricks
+# Pyspark-Databricks
 
 ## Overview
 This repository holds Pyspark projects. This can be used within the context of Databricks. 
