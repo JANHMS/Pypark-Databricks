@@ -1,10 +1,7 @@
-# Pyspark-Databricks
+# Pyspark-DataScience
 
 ## Overview
-This repository holds Pyspark projects. This can be used within the context of Databricks. 
-
-## Projects
-There are different projects. 
+This repository holds Pyspark projects. This can be used within the context of Databricks or Google Colab. 
 
 ## Project-1 Using Pyspark on Big Data
 
